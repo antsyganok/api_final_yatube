@@ -77,5 +77,8 @@ http://127.0.0.1:8000/redoc/
 | POST | http://127.0.0.1:8000/api/v1/posts/1/comments/ | Токен           | Добавление комментария к посту с ID 1 |
 | DELETE| http://127.0.0.1:8000/api/v1/posts/1/comments/1/ | Токен           | Удаление к посту с ID 1 комментария с ID 1 |
 
-#### _Использующиеся в проекте технологии:_
-__Python 3.7, Django 3.2, DRF, JWT + Djoser__
+#### Стек:
+![python version](https://img.shields.io/badge/Python-3.7.9-gold?style=flat-square&logo=python) ![django version](https://img.shields.io/badge/Django-2.2.16-purple?style=flat-square&logo=django) ![django version](https://img.shields.io/badge/Django%20REST%20Framework-%203.12.4-purple?style=flat-square&logo=django) ![SimpleJWT version](https://img.shields.io/badge/SimpleJWT-4.7.2-magenta?style=flat-square)
+
+##### Разработчик (backend):
+- Антон Цыганок
